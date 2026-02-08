@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <!-- Meta Tags Essenciais -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- SEO Meta Tags -->
+    <title>Mais Vendidos 2025 | Os Produtos Mais Populares com os Melhores Preços</title>
+    <meta name="description" content="Descubra os produtos mais vendidos de 2025! Ofertas imperdíveis em Eletrodomésticos, Eletrônicos, Casa e muito mais. Frete grátis e entrega rápida. Confira agora!">
+    <meta name="keywords" content="mais vendidos, produtos populares, ofertas, promoções, frete grátis, eletrodomésticos, eletrônicos, casa, melhores preços, 2025">
+    <meta name="author" content="Mais Vendidos Brasil">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <link rel="canonical" href="https://seudominio.com/">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://seudominio.com/">
+    <meta property="og:title" content="Mais Vendidos 2025 | Os Produtos Mais Populares">
+    <meta property="og:description" content="Descubra os produtos mais vendidos de 2025! Ofertas imperdíveis com frete grátis.">
+    <meta property="og:image" content="https://seudominio.com/images/og-image.jpg">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:site_name" content="Mais Vendidos Brasil">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://seudominio.com/">
+    <meta name="twitter:title" content="Mais Vendidos 2025 | Os Produtos Mais Populares">
+    <meta name="twitter:description" content="Descubra os produtos mais vendidos de 2025! Ofertas imperdíveis com frete grátis.">
+    <meta name="twitter:image" content="https://seudominio.com/images/og-image.jpg">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+    <!-- Preconnect para Performance -->
+    <link rel="preconnect" href="https://http2.mlstatic.com">
+    <link rel="dns-prefetch" href="https://http2.mlstatic.com">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Schema.org Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Mais Vendidos 2025",
+        "description": "Os produtos mais vendidos com os melhores preços",
+        "url": "https://seudominio.com/",
+        "mainEntity": {
+            "@type": "ItemList",
+            "name": "Produtos Mais Vendidos",
+            "description": "Lista dos produtos mais vendidos em diversas categorias",
+            "numberOfItems": 100
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Mais Vendidos Brasil",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://seudominio.com/images/logo.png"
+            }
+        }
+    }
+    </script>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header__container">
+            <div class="header__logo">
+                <h1 class="header__title">
+                    <span class="header__icon">🏆</span>
+                    Mais Vendidos
+                </h1>
+            </div>
+            <nav class="header__nav" aria-label="Navegação principal">
+                <button class="header__menu-btn" id="menuBtn" aria-label="Abrir menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" aria-labelledby="hero-title">
+        <div class="hero__container">
+            <div class="hero__badge">🔥 Atualizado em 2025</div>
+            <h2 id="hero-title" class="hero__title">
+                Confira abaixo os produtos<br>
+                <span class="hero__highlight">mais vendidos</span> do momento
+            </h2>
+            <p class="hero__subtitle">
+                Selecionamos os produtos com melhor avaliação e maiores descontos para você economizar
+            </p>
+            <div class="hero__stats">
+                <div class="hero__stat">
+                    <span class="hero__stat-number" id="totalProducts">0</span>
+                    <span class="hero__stat-label">Produtos</span>
+                </div>
+                <div class="hero__stat">
+                    <span class="hero__stat-number" id="totalCategories">0</span>
+                    <span class="hero__stat-label">Categorias</span>
+                </div>
+                <div class="hero__stat">
+                    <span class="hero__stat-number">Até 70%</span>
+                    <span class="hero__stat-label">Desconto</span>
+                </div>
+            </div>
+            <a href="#categories" class="hero__cta">
+                Ver Produtos
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M12 5v14M19 12l-7 7-7-7"/>
+                </svg>
+            </a>
+        </div>
+    </section>
+
+    <!-- Categories Navigation -->
+    <nav class="categories-nav" id="categories" aria-label="Navegação por categorias">
+        <div class="categories-nav__container">
+            <h3 class="categories-nav__title">Categorias</h3>
+            <div class="categories-nav__list" id="categoriesList" role="tablist">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main" id="main">
+        <div class="main__container">
+            <!-- Products by Category -->
+            <div id="productsContainer">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Back to Top -->
+    <button class="back-to-top" id="backToTop" aria-label="Voltar ao topo">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M18 15l-6-6-6 6"/>
+        </svg>
+    </button>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer__container">
+            <div class="footer__content">
+                <div class="footer__section">
+                    <h4 class="footer__title">Sobre</h4>
+                    <p class="footer__text">
+                        Selecionamos diariamente os produtos mais vendidos e com melhores avaliações
+                        para ajudar você a encontrar as melhores ofertas.
+                    </p>
+                </div>
+                <div class="footer__section">
+                    <h4 class="footer__title">Informações</h4>
+                    <ul class="footer__list">
+                        <li>✓ Produtos verificados</li>
+                        <li>✓ Preços atualizados</li>
+                        <li>✓ Frete grátis disponível</li>
+                        <li>✓ Compra segura</li>
+                    </ul>
+                </div>
+                <div class="footer__section">
+                    <h4 class="footer__title">Aviso</h4>
+                    <p class="footer__text footer__text--small">
+                        Este site contém links de afiliados. Ao clicar e comprar,
+                        podemos receber uma comissão sem custo adicional para você.
+                    </p>
+                </div>
+            </div>
+            <div class="footer__bottom">
+                <p>&copy; 2025 Mais Vendidos Brasil. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Loading Overlay -->
+    <div class="loading" id="loading">
+        <div class="loading__spinner"></div>
+        <p class="loading__text">Carregando produtos...</p>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,1298 @@
+{
+  "metadata": {
+    "source": "Mercado Livre - Mais Vendidos",
+    "scraped_at": "2026-01-29T15:10:15.285083",
+    "url": "https://www.mercadolivre.com.br/mais-vendidos#menu=categories",
+    "affiliate_links_added_at": "2026-01-29T19:40:26.426697"
+  },
+  "categories": [
+    {
+      "name": "Eletrodomésticos",
+      "url": "https://www.mercadolivre.com.br/mais-vendidos/MLB5726",
+      "products": [
+        {
+          "ranking": 1,
+          "title": "Ventilador de Mesa 30cm Super Power, Mondial, 60W - VSP-30-W",
+          "url": "https://www.mercadolivre.com.br/ventilador-de-mesa-30cm-super-power-mondial-60w-vsp-30-w/p/MLB18932159",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_907647-MLA99510125312_112025-P.webp",
+          "price": {
+            "current": 124.53,
+            "original": 172.0,
+            "discount_percent": 27
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/15aMCq9"
+        },
+        {
+          "ranking": 2,
+          "title": "Liquidificador Turbo Power Mondial 550W - L-99 FB",
+          "url": "https://www.mercadolivre.com.br/liquidificador-turbo-power-mondial-550w-l-99-fb/p/MLB15578948",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_744049-MLA99539379058_122025-P.webp",
+          "price": {
+            "current": 99.23,
+            "original": 172.0,
+            "discount_percent": 42
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2FvbGQq"
+        },
+        {
+          "ranking": 3,
+          "title": "Ventilador Osc Coluna Turbo 6p 50cm Bronze Premium Cor da estrutura Preto",
+          "url": "https://www.mercadolivre.com.br/ventilador-osc-coluna-turbo-6p-50cm-bronze-premium-cor-da-estrutura-preto/p/MLB14434781",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_636703-MLA99499032316_112025-P.webp",
+          "price": {
+            "current": 223.72,
+            "original": 289.0,
+            "discount_percent": 22
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2rjVyzF"
+        },
+        {
+          "ranking": 4,
+          "title": "Aspirador de Pó e Água WAP GTW 10 1400W de Potência com Bocal de Sopro",
+          "url": "https://www.mercadolivre.com.br/aspirador-de-po-e-agua-wap-gtw-10-1400w-de-potncia-com-bocal-de-sopro/p/MLB8923631",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_985627-MLA100060225801_122025-P.webp",
+          "price": {
+            "current": 259.9,
+            "original": 485.0,
+            "discount_percent": 46
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/29shmb6"
+        },
+        {
+          "ranking": 5,
+          "title": "Liquidificador Pratic Turbo III, Mondial, 550W - L-93-BG",
+          "url": "https://www.mercadolivre.com.br/liquidificador-pratic-turbo-iii-mondial-550w-l-93-bg/p/MLB46053181",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_856315-MLA99920847933_112025-P.webp",
+          "price": {
+            "current": 95.2,
+            "original": 154.0,
+            "discount_percent": 38
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1UjQ6tq"
+        },
+        {
+          "ranking": 6,
+          "title": "Mixer Turbo Chef 3 Em 1 200w Triturador E Fuet Elgin",
+          "url": "https://www.mercadolivre.com.br/mixer-turbo-chef-3-em-1-200w-triturador-e-fuet-elgin/p/MLB18709030",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_651826-MLA99986263335_112025-P.webp",
+          "price": {
+            "current": 101.57,
+            "original": 229.0,
+            "discount_percent": 55
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1EdYc3j"
+        },
+        {
+          "ranking": 7,
+          "title": "Liquidificador Full 1400w 15 Velocidades Oliq610 Preto Oster",
+          "url": "https://www.mercadolivre.com.br/liquidificador-full-1400w-15-velocidades-oliq610-preto-oster/p/MLB16602519",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_702461-MLA100061718683_122025-P.webp",
+          "price": {
+            "current": 167.37,
+            "original": 259.0,
+            "discount_percent": 35
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/18XMzUN"
+        },
+        {
+          "ranking": 8,
+          "title": "Ventilador de mesa Ventisol Ventilador De Mesa Turbo 6 turbo com 6 pás de Plástico azul estrutura preto 50cm de diâmetro 60 Hz",
+          "url": "https://www.mercadolivre.com.br/ventilador-de-mesa-ventisol-ventilador-de-mesa-turbo-6-turbo-com-6-pas-de-plastico-azul-estrutura-preto-50cm-de-dimetro-60-hz/p/MLB15284408",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_693359-MLA99508047202_112025-P.webp",
+          "price": {
+            "current": 200.3,
+            "original": 239.0,
+            "discount_percent": 16
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/17QSEmz"
+        },
+        {
+          "ranking": 9,
+          "title": "Ventilador De Coluna Britânia Bvt450 Maxx Force 160w Diâmetro 40 cm Quantidade de pás 6",
+          "url": "https://www.mercadolivre.com.br/ventilador-de-coluna-britnia-bvt450-maxx-force-160w-dimetro-40-cm-quantidade-de-pas-6/p/MLB29761083",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_608546-MLA95354846419_102025-P.webp",
+          "price": {
+            "current": 212.44,
+            "original": 299.0,
+            "discount_percent": 29
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1R7AW5M"
+        },
+        {
+          "ranking": 10,
+          "title": "Liquidificador Easy Power Mondial 550W L-550-W",
+          "url": "https://www.mercadolivre.com.br/liquidificador-easy-power-mondial-550w-l-550-w/p/MLB17929481",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_678504-MLA99584243768_122025-P.webp",
+          "price": {
+            "current": 85.9,
+            "original": 132.0,
+            "discount_percent": 35
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1iRjaZf"
+        },
+        {
+          "ranking": 11,
+          "title": "Filtro De Café Reutilizável Em Aço Inox Modelo 103 Peneira Permanente Sustentável Coar Café Tradicional Sem Papel Econômico E Durável Ponte Lar Utilidades",
+          "url": "https://www.mercadolivre.com.br/filtro-de-cafe-reutilizavel-em-aco-inox-modelo-103-peneira-permanente-sustentavel-coar-cafe-tradicional-sem-papel-econmico-e-duravel-ponte-lar-utilidades/p/MLB25547092",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_803581-MLA99564243074_122025-P.webp",
+          "price": {
+            "current": 29.99,
+            "original": 35.0,
+            "discount_percent": 16
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1RRBotF"
+        },
+        {
+          "ranking": 12,
+          "title": "Filtro/Refil de Água Acqua Pure para Purificador Electrolux PE12A/PE12B/PE12G/PE12V/PE12P - FILTRO ÁGUA PE12 / PC02",
+          "url": "https://www.mercadolivre.com.br/filtrorefil-de-agua-acqua-pure-para-purificador-electrolux-pe12ape12bpe12gpe12vpe12p-filtro-agua-pe12-pc02/p/MLB60239158",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_896538-MLA95386896873_102025-P.webp",
+          "price": {
+            "current": 74.69,
+            "original": 99.0,
+            "discount_percent": 25
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/22axV87"
+        },
+        {
+          "ranking": 13,
+          "title": "Liquidificador PH900 Com 12 Velocidades e Pulsar Potência de 1200W Cor Vermelho Philco",
+          "url": "https://www.mercadolivre.com.br/liquidificador-ph900-com-12-velocidades-e-pulsar-potncia-de-1200w-cor-vermelho-philco/p/MLB15578943",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_951201-MLA99482884492_112025-P.webp",
+          "price": {
+            "current": 159.9,
+            "original": 299.0,
+            "discount_percent": 46
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2AMDXL5"
+        },
+        {
+          "ranking": 14,
+          "title": "Ventilador De Coluna 40cm Arno X-treme 7, 7 Pás, 150w Ve7c Estrutura Preto Material Das Pás Plástico",
+          "url": "https://www.mercadolivre.com.br/ventilador-de-coluna-40cm-arno-x-treme-7-7-pas-150w-ve7c-estrutura-preto-material-das-pas-plastico/p/MLB50515810",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_720147-MLA99364443082_112025-P.webp",
+          "price": {
+            "current": 339.0,
+            "original": 584.0,
+            "discount_percent": 42
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/32HEAg2"
+        },
+        {
+          "ranking": 15,
+          "title": "Electrolux Efficient Esi10 a vapor e ferro seco, cor azul",
+          "url": "https://www.mercadolivre.com.br/electrolux-efficient-esi10-a-vapor-e-ferro-seco-cor-azul/p/MLB25396633",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_816804-MLA104767226031_012026-P.webp",
+          "price": {
+            "current": 101.84,
+            "original": 109.0,
+            "discount_percent": 7
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2Li6tme"
+        },
+        {
+          "ranking": 16,
+          "title": "Batedeira Power Prática Mondial, 400W - B-44-R",
+          "url": "https://www.mercadolivre.com.br/batedeira-power-pratica-mondial-400w-b-44-r/p/MLB16077843",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_968745-MLA99563649326_122025-P.webp",
+          "price": {
+            "current": 112.59,
+            "original": 154.0,
+            "discount_percent": 27
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1HVDnyg"
+        },
+        {
+          "ranking": 17,
+          "title": "Ventilador de parede Ventisol New 60cm com 3 pás de Plástico preto estrutura new cromado, 60cm de diâmetro",
+          "url": "https://www.mercadolivre.com.br/ventilador-de-parede-ventisol-new-60cm-com-3-pas-de-plastico-preto-estrutura-new-cromado-60cm-de-dimetro/p/MLB15276720",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_977235-MLA99947322637_112025-P.webp",
+          "price": {
+            "current": 289.9,
+            "original": 0.0,
+            "discount_percent": 0
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/23jJGa2"
+        },
+        {
+          "ranking": 18,
+          "title": "Refil Filtro Cix06ax Purificador de Água Consul Cpb34as Cpb34af Cpb34ab Cpc31af Cpc31ab",
+          "url": "https://www.mercadolivre.com.br/refil-filtro-cix06ax-purificador-de-agua-consul-cpb34as-cpb34af-cpb34ab-cpc31af-cpc31ab/p/MLB27078749",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_879703-MLA99536118600_122025-P.webp",
+          "price": {
+            "current": 78.9,
+            "original": 129.0,
+            "discount_percent": 38
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2nG6KAT"
+        },
+        {
+          "ranking": 19,
+          "title": "Fogão Cooktop Elétrico Elgin 2 Bocas Preto",
+          "url": "https://www.mercadolivre.com.br/fogo-cooktop-eletrico-elgin-2-bocas-preto/p/MLB22305960",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_753175-MLA99852703155_112025-P.webp",
+          "price": {
+            "current": 115.0,
+            "original": 135.0,
+            "discount_percent": 15
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/274BCoK"
+        },
+        {
+          "ranking": 20,
+          "title": "Ventilador Bvt400 Maxx Force 2 Em 1 150w Preto Britânia",
+          "url": "https://www.mercadolivre.com.br/ventilador-bvt400-maxx-force-2-em-1-150w-preto-britnia/p/MLB27291667",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_957387-MLA95501959460_102025-P.webp",
+          "price": {
+            "current": 226.9,
+            "original": 0.0,
+            "discount_percent": 0
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1BzQXCN"
+        }
+      ]
+    },
+    {
+      "name": "Ferramentas",
+      "url": "https://www.mercadolivre.com.br/mais-vendidos/MLB263532",
+      "products": [
+        {
+          "ranking": 1,
+          "title": "Parafusadeira E Furadeira Impacto The Black Tools Tb-21pw 3/8 Cor Amarelo Frequência 50/60 Hz",
+          "url": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-impacto-the-black-tools-tb-21pw-38-cor-amarelo-frequncia-5060-hz/p/MLB38053317",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_683617-MLA99862544303_112025-P.webp",
+          "price": {
+            "current": 169.9,
+            "original": 321.0,
+            "discount_percent": 47
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2CbeLqg"
+        },
+        {
+          "ranking": 2,
+          "title": "Kit Chaves Ferramentas Jogo Fenda Philips Catraca Soquete Allen 46 Peças com Maleta Completa Manual Ideal Mecânico Manutenção Casa Carro Profissional Resistente Portátil Compacto Marca VLX",
+          "url": "https://www.mercadolivre.com.br/kit-chaves-ferramentas-jogo-fenda-philips-catraca-soquete-allen-46-pecas-com-maleta-completa-manual-ideal-mecnico-manutenco-casa-carro-profissional-resistente-portatil-compacto-marca-vlx/p/MLB62981396",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_714077-MLA103757856633_012026-P.webp",
+          "price": {
+            "current": 26.83,
+            "original": 0.0,
+            "discount_percent": 0
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/25J8DjD"
+        },
+        {
+          "ranking": 3,
+          "title": "Parafusadeira Furadeira 48v Profissional 2 Baterias Sem Fio Cor Amarelo",
+          "url": "https://www.mercadolivre.com.br/parafusadeira-furadeira-48v-profissional-2-baterias-sem-fio-cor-amarelo/p/MLB52258299",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_619822-MLA99983546233_112025-P.webp",
+          "price": {
+            "current": 134.83,
+            "original": 179.0,
+            "discount_percent": 25
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1jpzXJz"
+        },
+        {
+          "ranking": 4,
+          "title": "Carga para lâmina de barbear Gillette Mach3 Sensitive 20 u",
+          "url": "https://www.mercadolivre.com.br/carga-para-lmina-de-barbear-gillette-mach3-sensitive-20-u/p/MLB16088394",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_923682-MLA99821646447_112025-P.webp",
+          "price": {
+            "current": 171.9,
+            "original": 0.0,
+            "discount_percent": 0
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1bWF9ay"
+        },
+        {
+          "ranking": 5,
+          "title": "Pilha Alcalina Aaa Palito Duracell Com 16 Unidades",
+          "url": "https://www.mercadolivre.com.br/pilha-alcalina-aaa-palito-duracell-com-16-unidades/p/MLB16142959",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_975432-MLA99928535569_112025-P.webp",
+          "price": {
+            "current": 82.9,
+            "original": 99.0,
+            "discount_percent": 17
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2ftfYu3"
+        },
+        {
+          "ranking": 6,
+          "title": "Serra Makita 4100nh3zx Mármore com 2 Discos Diámetro 110mm 1300W",
+          "url": "https://www.mercadolivre.com.br/serra-makita-4100nh3zx-marmore-com-2-discos-diametro-110mm-1300w/p/MLB19802405",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_707426-MLU72340464209_102023-P.webp",
+          "price": {
+            "current": 359.9,
+            "original": 494.0,
+            "discount_percent": 27
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1TrhNDd"
+        },
+        {
+          "ranking": 7,
+          "title": "Kit Ferro De Solda 60w Estanho Com Fluxo De Solda Com Regulagem De Temperatura Profissional Several 127 Volts",
+          "url": "https://www.mercadolivre.com.br/kit-ferro-de-solda-60w-estanho-com-fluxo-de-solda-com-regulagem-de-temperatura-profissional-several-127-volts/p/MLB53197221",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_677764-MLA100104349495_122025-P.webp",
+          "price": {
+            "current": 36.3,
+            "original": 49.0,
+            "discount_percent": 27
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2GGTvtz"
+        },
+        {
+          "ranking": 8,
+          "title": "Esmerilhadeira Lixadeira Angular 4.1/2 780W 11000 Rpm E Discos De Corte + Jogo De Chave Catraca 40 Peças The Black Tools",
+          "url": "https://www.mercadolivre.com.br/esmerilhadeira-lixadeira-angular-412-780w-11000-rpm-e-discos-de-corte-jogo-de-chave-catraca-40-pecas-the-black-tools/p/MLB47584002",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_751575-MLA99990243373_112025-P.webp",
+          "price": {
+            "current": 168.0,
+            "original": 184.0,
+            "discount_percent": 9
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1jukz2f"
+        },
+        {
+          "ranking": 9,
+          "title": "Kit Jogo De Ferramentas 40 Peças Profissional Peças Chave Fenda Philips Soquete 1em Aço Crv Resistente Completo Para Manutenção Carro Moto Casa",
+          "url": "https://www.mercadolivre.com.br/kit-jogo-de-ferramentas-40-pecas-profissional-pecas-chave-fenda-philips-soquete-1em-aco-crv-resistente-completo-para-manutenco-carro-moto-casa/p/MLB64230629",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_845402-MLA104891142515_012026-P.webp",
+          "price": {
+            "current": 27.59,
+            "original": 39.0,
+            "discount_percent": 30
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/278y2oo"
+        },
+        {
+          "ranking": 10,
+          "title": "Lavadora de Alta Pressão Vonder LAV 1300 – 1300 Libras, Compacta, Potente, Ideal para Carros, Quintais e Limpezas Pesadas",
+          "url": "https://www.mercadolivre.com.br/lavadora-de-alta-presso-vonder-lav-1300-1300-libras-compacta-potente-ideal-para-carros-quintais-e-limpezas-pesadas/p/MLB28530537",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_637522-MLA99502265756_112025-P.webp",
+          "price": {
+            "current": 319.9,
+            "original": 419.0,
+            "discount_percent": 23
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1Q5dMmV"
+        },
+        {
+          "ranking": 11,
+          "title": "Piscina Infantil Quadrada Estrutural Pvc 400 Litros - Mor",
+          "url": "https://www.mercadolivre.com.br/piscina-infantil-quadrada-estrutural-pvc-400-litros-mor/p/MLB9900673",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_827280-MLA95700991574_102025-P.webp",
+          "price": {
+            "current": 109.0,
+            "original": 166.0,
+            "discount_percent": 34
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2AJkF6T"
+        },
+        {
+          "ranking": 12,
+          "title": "Pulverizador Snow Foam Shampoozeira Manual 3 Em 1 Água Químicos e Espuma Cor Preto Alta Pressão Ideal Para Lavagem Automotiva Moto Bike Limpeza Profissional",
+          "url": "https://www.mercadolivre.com.br/pulverizador-snow-foam-shampoozeira-manual-3-em-1-agua-quimicos-e-espuma-cor-preto-alta-presso-ideal-para-lavagem-automotiva-moto-bike-limpeza-profissional/p/MLB28329161",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_955041-MLA105095058451_012026-P.webp",
+          "price": {
+            "current": 40.9,
+            "original": 53.0,
+            "discount_percent": 23
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1BsTyR2"
+        },
+        {
+          "ranking": 13,
+          "title": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque",
+          "url": "https://www.mercadolivre.com.br/parafusadeira-furadeira-c-2-baterias-maleta-kit-completo-led-eixo-flexivel-varios-niveis-torque/p/MLB50181290",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_828436-MLA100007265481_122025-P.webp",
+          "price": {
+            "current": 135.69,
+            "original": 299.0,
+            "discount_percent": 54
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2ByXaZE"
+        },
+        {
+          "ranking": 14,
+          "title": "Climatizador Ar Frio Portátil Evaporativo 16 Litros Umidificador Ventisol CLIN 16 BR/CZ",
+          "url": "https://www.mercadolivre.com.br/climatizador-ar-frio-portatil-evaporativo-16-litros-umidificador-ventisol-clin-16-brcz/p/MLB26607986",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_682462-MLA99916446983_112025-P.webp",
+          "price": {
+            "current": 500.31,
+            "original": 599.0,
+            "discount_percent": 16
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2mY8ACH"
+        },
+        {
+          "ranking": 15,
+          "title": "Jogo Kit de Ferramentas Manuais Chave Catraca 1/2 8 a 32mm BCS022 The Black Tools Cor Amarelo",
+          "url": "https://www.mercadolivre.com.br/jogo-kit-de-ferramentas-manuais-chave-catraca-12-8-a-32mm-bcs022-the-black-tools-cor-amarelo/p/MLB28517268",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_859847-MLA100057006095_122025-P.webp",
+          "price": {
+            "current": 159.9,
+            "original": 279.0,
+            "discount_percent": 42
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2v7PX7n"
+        },
+        {
+          "ranking": 16,
+          "title": "Kit Chaves Ferramentas Jogo Fenda Philips Catraca Soquete Allen 46 Peças com Maleta Completa Manual Ideal Mecânico Manutenção Casa Carro Profissional Resistente Portátil Compacto Marca VLX",
+          "url": "https://www.mercadolivre.com.br/kit-chaves-ferramentas-jogo-fenda-philips-catraca-soquete-allen-46-pecas-com-maleta-completa-manual-ideal-mecnico-manutenco-casa-carro-profissional-resistente-portatil-compacto-marca-vlx/p/MLB29036892",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_793698-MLA105178578009_012026-P.webp",
+          "price": {
+            "current": 29.9,
+            "original": 43.0,
+            "discount_percent": 31
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2pjuXUM"
+        },
+        {
+          "ranking": 17,
+          "title": "Manta Asfáltica Auto Adesiva Aluminizada 20 Cm X 10 M Dryko",
+          "url": "https://www.mercadolivre.com.br/manta-asfaltica-auto-adesiva-aluminizada-20-cm-x-10-m-dryko/p/MLB26716510",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_850706-MLA100049674515_122025-P.webp",
+          "price": {
+            "current": 36.99,
+            "original": 0.0,
+            "discount_percent": 0
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1D41ZEv"
+        },
+        {
+          "ranking": 18,
+          "title": "Máscara De Solda Escurecimento Automatico Profissional Cor Preto Liso The Black Tools",
+          "url": "https://www.mercadolivre.com.br/mascara-de-solda-escurecimento-automatico-profissional-cor-preto-liso-the-black-tools/p/MLB28612667",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_799222-MLA99459901660_112025-P.webp",
+          "price": {
+            "current": 59.9,
+            "original": 107.0,
+            "discount_percent": 44
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2Duw6kz"
+        },
+        {
+          "ranking": 19,
+          "title": "Multímetro Digital Profissional Multifunções Com Beep E Iluminação Display Lcd Elétrica E Eletrônica Alta Precisão Para Medir Voltagem Corrente Resistência E Continuidade Several Importados",
+          "url": "https://www.mercadolivre.com.br/multimetro-digital-profissional-multifuncoes-com-beep-e-iluminaco-display-lcd-eletrica-e-eletrnica-alta-preciso-para-medir-voltagem-corrente-resistncia-e-continuidade-several-importados/p/MLB60850755",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_984049-MLA100086533863_122025-P.webp",
+          "price": {
+            "current": 29.95,
+            "original": 59.0,
+            "discount_percent": 50
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1gvocqs"
+        },
+        {
+          "ranking": 20,
+          "title": "Lavadora A Jato De Alta Pressão Portátil Recarregável",
+          "url": "https://www.mercadolivre.com.br/lavadora-a-jato-de-alta-presso-portatil-recarregavel/p/MLB50676394",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_776396-MLA100046831381_122025-P.webp",
+          "price": {
+            "current": 106.8,
+            "original": 120.0,
+            "discount_percent": 11
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2cb53TK"
+        }
+      ]
+    },
+    {
+      "name": "Eletrônicos, Áudio e Vídeo",
+      "url": "https://www.mercadolivre.com.br/mais-vendidos/MLB1000",
+      "products": [
+        {
+          "ranking": 1,
+          "title": "Suporte Tv Fixo Universal 10'' A 100'' Polegadas Para todas as Marcas - Parosflux",
+          "url": "https://www.mercadolivre.com.br/suporte-tv-fixo-universal-10-a-100-polegadas-para-todas-as-marcas-parosflux/p/MLB45862017",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_881904-MLA100081040315_122025-P.webp",
+          "price": {
+            "current": 19.0,
+            "original": 21.0,
+            "discount_percent": 13
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/22t3DWH"
+        },
+        {
+          "ranking": 2,
+          "title": "Fone De Ouvido Bluetooth Sem Fio Com Visor Intra Auricular Estéreo Graves Potentes Microfone Integrado Bateria Longa Duração Compatível Com Todos Os Celulares Notebook Tablet Música Corrida",
+          "url": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-sem-fio-com-visor-intra-auricular-estereo-graves-potentes-microfone-integrado-bateria-longa-duraco-compativel-com-todos-os-celulares-notebook-tablet-musica-corrida/p/MLB54015578",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_774392-MLA99758844476_122025-P.webp",
+          "price": {
+            "current": 19.0,
+            "original": 32.0,
+            "discount_percent": 41
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1bWjfwn"
+        },
+        {
+          "ranking": 3,
+          "title": "Fone De Ouvido In ear Soundcore P20i Bluetooth 5.3 Grave Potente Drivers 10mm 30h Bateria Carregamento Rápido Personalização De Som Via App Ipx5 2 Mics Ia Para Chamadas Claras Case Compacto Cor Branco",
+          "url": "https://www.mercadolivre.com.br/fone-de-ouvido-in-ear-soundcore-p20i-bluetooth-53-grave-potente-drivers-10mm-30h-bateria-carregamento-rapido-personalizaco-de-som-via-app-ipx5-2-mics-ia-para-chamadas-claras-case-compacto-cor-branco/p/MLB43397587",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_788794-MLA95696847458_102025-P.webp",
+          "price": {
+            "current": 166.19,
+            "original": 299.0,
+            "discount_percent": 44
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1QaDENv"
+        },
+        {
+          "ranking": 4,
+          "title": "Fone De Ouvido HAIXIA Sem Fio Tws Bluetooth 5.1 Cor Preto Cancelamento Cvc Chamadas Hd Modo Jogo Baixa Latência Bateria Longa Estojo Magnético Controle Touch",
+          "url": "https://www.mercadolivre.com.br/fone-de-ouvido-haixia-sem-fio-tws-bluetooth-51-cor-preto-cancelamento-cvc-chamadas-hd-modo-jogo-baixa-latncia-bateria-longa-estojo-magnetico-controle-touch/p/MLB40196735",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_925637-MLA104524649378_012026-P.webp",
+          "price": {
+            "current": 46.71,
+            "original": 56.0,
+            "discount_percent": 18
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/17wrU3f"
+        },
+        {
+          "ranking": 5,
+          "title": "Fone De Ouvido Sem Fio Bluetooth F9-5 Pares Som Imersivo Powerbank Moderno Bateria Longa Duração Academia Compativel Com Todos Celulares",
+          "url": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-bluetooth-f9-5-pares-som-imersivo-powerbank-moderno-bateria-longa-duraco-academia-compativel-com-todos-celulares/p/MLB27174916",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_950255-MLA99604896412_122025-P.webp",
+          "price": {
+            "current": 24.99,
+            "original": 31.0,
+            "discount_percent": 21
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/33jQMdd"
+        },
+        {
+          "ranking": 6,
+          "title": "Mini Projetor Hy300 Android 4k Portátil Wi-fi Bluetooth Hdmi Usb Cinema Em Casa Compacto Alta Resolução Full Hd Smart Projetor Davely Celular Notebook Games Apresentação",
+          "url": "https://www.mercadolivre.com.br/mini-projetor-hy300-android-4k-portatil-wi-fi-bluetooth-hdmi-usb-cinema-em-casa-compacto-alta-resoluco-full-hd-smart-projetor-davely-celular-notebook-games-apresentaco/p/MLB48955624",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_902043-MLA96988011016_112025-P.webp",
+          "price": {
+            "current": 299.0,
+            "original": 0.0,
+            "discount_percent": 0
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1SvK9t5"
+        },
+        {
+          "ranking": 7,
+          "title": "Cabo Hdmi 20m Metros Preto Premium 4k Blindado Gold 3d Full",
+          "url": "https://www.mercadolivre.com.br/cabo-hdmi-20m-metros-preto-premium-4k-blindado-gold-3d-full/p/MLB50913963",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_940611-MLA99369294962_112025-P.webp",
+          "price": {
+            "current": 65.89,
+            "original": 77.0,
+            "discount_percent": 15
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/11qMnqc"
+        },
+        {
+          "ranking": 8,
+          "title": "Fone Bluetooth Compatível Com Ios, Android, Samsung E iPhone Cor Branco B Basto",
+          "url": "https://www.mercadolivre.com.br/fone-bluetooth-compativel-com-ios-android-samsung-e-iphone-cor-branco-b-basto/p/MLB25907245",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_990877-MLA105239591744_012026-P.webp",
+          "price": {
+            "current": 35.33,
+            "original": 60.0,
+            "discount_percent": 41
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1dMBQDh"
+        },
+        {
+          "ranking": 9,
+          "title": "Pilha Duracell Alcalina 16 Aaa Pequena Kit Cartela Mn1500",
+          "url": "https://www.mercadolivre.com.br/pilha-duracell-alcalina-16-aaa-pequena-kit-cartela-mn1500/p/MLB55915508",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_672099-MLA99415109032_112025-P.webp",
+          "price": {
+            "current": 79.0,
+            "original": 0.0,
+            "discount_percent": 0
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/16Nu7pq"
+        },
+        {
+          "ranking": 10,
+          "title": "Suporte Tv Fixo Universal 10'' A 100'' Polegadas - Compacto - Sing Nature",
+          "url": "https://www.mercadolivre.com.br/suporte-tv-fixo-universal-10-a-100-polegadas-compacto-sing-nature/p/MLB54051693",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_823011-MLA102079343882_122025-P.webp",
+          "price": {
+            "current": 19.0,
+            "original": 0.0,
+            "discount_percent": 0
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2EQadSK"
+        },
+        {
+          "ranking": 11,
+          "title": "Kit 8 Pilhas Sellerex Recarregáveis Aa + Carregador Bivolt Rápido",
+          "url": "https://www.mercadolivre.com.br/kit-8-pilhas-sellerex-recarregaveis-aa-carregador-bivolt-rapido/p/MLB62722804",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_843325-MLA100080591687_122025-P.webp",
+          "price": {
+            "current": 55.99,
+            "original": 0.0,
+            "discount_percent": 0
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1CB3JZZ"
+        },
+        {
+          "ranking": 12,
+          "title": "Controle Remoto Para Smart Tv Samsung 4k Com Pilhas E Teclas Netflix Prime Video",
+          "url": "https://www.mercadolivre.com.br/controle-remoto-para-smart-tv-samsung-4k-com-pilhas-e-teclas-netflix-prime-video/p/MLB62143380",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_699448-MLA97839020544_112025-P.webp",
+          "price": {
+            "current": 19.9,
+            "original": 29.0,
+            "discount_percent": 33
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2xu5hqu"
+        },
+        {
+          "ranking": 13,
+          "title": "Suporte Tv Articulado Móvel Universal 14 á 55 Polegadas Até 50kg Tv/Lcd/ Led",
+          "url": "https://www.mercadolivre.com.br/suporte-tv-articulado-movel-universal-14-a-55-polegadas-ate-50kg-tvlcd-led/p/MLB21205494",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_920075-MLA95935202707_102025-P.webp",
+          "price": {
+            "current": 45.28,
+            "original": 78.0,
+            "discount_percent": 42
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2rFQSx2"
+        },
+        {
+          "ranking": 14,
+          "title": "Smart Tv 32 Philco Ptv32k34rkgb Roku Tv Led Dolby Audio",
+          "url": "https://www.mercadolivre.com.br/smart-tv-32-philco-ptv32k34rkgb-roku-tv-led-dolby-audio/p/MLB39456212",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_681053-MLA99382614472_112025-P.webp",
+          "price": {
+            "current": 883.9,
+            "original": 1175.0,
+            "discount_percent": 24
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2sB53se"
+        },
+        {
+          "ranking": 15,
+          "title": "Tv Stick Wi-fi Smart Tv Android Hdmi Tv Fire Tv Stick",
+          "url": "https://www.mercadolivre.com.br/tv-stick-wi-fi-smart-tv-android-hdmi-tv-fire-tv-stick/p/MLB41918674",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_795377-MLA99915284167_112025-P.webp",
+          "price": {
+            "current": 125.08,
+            "original": 133.0,
+            "discount_percent": 5
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/32TV63x"
+        },
+        {
+          "ranking": 16,
+          "title": "Pilha alcalina aa pequena Duracell com 16 unidades",
+          "url": "https://www.mercadolivre.com.br/pilha-alcalina-aa-pequena-duracell-com-16-unidades/p/MLB19748584",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_899278-MLA102087481209_122025-P.webp",
+          "price": {
+            "current": 76.03,
+            "original": 99.0,
+            "discount_percent": 23
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2rf86DD"
+        },
+        {
+          "ranking": 17,
+          "title": "Plus Do Brasil Cabo Usb Plus Turbo Tipo C Compativel Com Samsung Galaxy S25 S24 Plus S23 Fe S22 S21 S20 A16 A15 A22 A13 A14 A55 A53 A54 A06 A05s A20 A21 Apple iPhone 17 16 15 Carplay Auto Android",
+          "url": "https://www.mercadolivre.com.br/plus-do-brasil-cabo-usb-plus-turbo-tipo-c-compativel-com-samsung-galaxy-s25-s24-plus-s23-fe-s22-s21-s20-a16-a15-a22-a13-a14-a55-a53-a54-a06-a05s-a20-a21-apple-iphone-17-16-15-carplay-auto-android/p/MLB37993505",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_626755-MLA105599427615_012026-P.webp",
+          "price": {
+            "current": 19.99,
+            "original": 59.0,
+            "discount_percent": 66
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/13a1LPc"
+        },
+        {
+          "ranking": 18,
+          "title": "20 Pilhas Alcalinas Philips 10 Aa Pequena + 10 Aaa Palito",
+          "url": "https://www.mercadolivre.com.br/20-pilhas-alcalinas-philips-10-aa-pequena-10-aaa-palito/p/MLB26895859",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_783078-MLA99425380422_112025-P.webp",
+          "price": {
+            "current": 58.0,
+            "original": 68.0,
+            "discount_percent": 14
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/23RY5E8"
+        },
+        {
+          "ranking": 19,
+          "title": "Smart TV AOC 40\" 40S5045/78G Roku TV DLED Full HD",
+          "url": "https://www.mercadolivre.com.br/smart-tv-aoc-40-40s504578g-roku-tv-dled-full-hd/p/MLB43554996",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_828643-MLA99975300399_112025-P.webp",
+          "price": {
+            "current": 1299.0,
+            "original": 1999.0,
+            "discount_percent": 35
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1whTMFD"
+        },
+        {
+          "ranking": 20,
+          "title": "Controle Remoto Para Tv LG Smart 32 43 49 50 55 65 70",
+          "url": "https://www.mercadolivre.com.br/controle-remoto-para-tv-lg-smart-32-43-49-50-55-65-70/p/MLB30481423",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_868702-MLA100083779197_122025-P.webp",
+          "price": {
+            "current": 19.0,
+            "original": 0.0,
+            "discount_percent": 0
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1HkPEU5"
+        }
+      ]
+    },
+    {
+      "name": "Esportes e Fitness",
+      "url": "https://www.mercadolivre.com.br/mais-vendidos/MLB1276",
+      "products": [
+        {
+          "ranking": 1,
+          "title": "Creatina Monohidratada Pura 600g Dark Lab Unidade",
+          "url": "https://www.mercadolivre.com.br/creatina-monohidratada-pura-600g-dark-lab-unidade/p/MLB39089853",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_985655-MLA99931910179_112025-P.webp",
+          "price": {
+            "current": 59.99,
+            "original": 124.0,
+            "discount_percent": 51
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1rwHASW"
+        },
+        {
+          "ranking": 2,
+          "title": "Creatina Growth Monohidratada Pote De 100g - Sabor Sem Sabor",
+          "url": "https://www.mercadolivre.com.br/creatina-growth-monohidratada-pote-de-100g-sabor-sem-sabor/p/MLB47820824",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_753069-MLA100068605991_122025-P.webp",
+          "price": {
+            "current": 54.39,
+            "original": 68.0,
+            "discount_percent": 21
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2emVeb3"
+        },
+        {
+          "ranking": 3,
+          "title": "Tasty Whey 3w Gourmet 912g - Adaptogen Sabor Brigadeiro",
+          "url": "https://www.mercadolivre.com.br/tasty-whey-3w-gourmet-912g-adaptogen-sabor-brigadeiro/p/MLB53586075",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_756341-MLA99964932045_112025-P.webp",
+          "price": {
+            "current": 179.9,
+            "original": 209.0,
+            "discount_percent": 13
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2GyhgMz"
+        },
+        {
+          "ranking": 4,
+          "title": "Whey Protein Concentrado 80% 1k Growth Sabores Sabor Sorvete De Creme",
+          "url": "https://www.mercadolivre.com.br/whey-protein-concentrado-80-1k-growth-sabores-sabor-sorvete-de-creme/p/MLB55606666",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_603389-MLA92147981353_092025-P.webp",
+          "price": {
+            "current": 189.9,
+            "original": 0.0,
+            "discount_percent": 0
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1djQxJY"
+        },
+        {
+          "ranking": 5,
+          "title": "Suplemento Academia Whey Pro Max Titanium Concentrado Pote 1kg Sabor Chocolate",
+          "url": "https://www.mercadolivre.com.br/suplemento-academia-whey-pro-max-titanium-concentrado-pote-1kg-sabor-chocolate/p/MLB6087972",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_766189-MLA99371216440_112025-P.webp",
+          "price": {
+            "current": 78.99,
+            "original": 104.0,
+            "discount_percent": 24
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1ftCiws"
+        },
+        {
+          "ranking": 6,
+          "title": "Nutri Whey Protein Pouch Baunilha 900g Integralmédica",
+          "url": "https://www.mercadolivre.com.br/nutri-whey-protein-pouch-baunilha-900g-integralmedica/p/MLB18537209",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_989626-MLA99488816680_112025-P.webp",
+          "price": {
+            "current": 45.16,
+            "original": 99.0,
+            "discount_percent": 54
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2eLV1aC"
+        },
+        {
+          "ranking": 7,
+          "title": "Whey 100% Pure Cookies 900g Pote - Aumento de Massa Magra com Proteína de Alta Qualidade",
+          "url": "https://www.mercadolivre.com.br/whey-100-pure-cookies-900g-pote-aumento-de-massa-magra-com-proteina-de-alta-qualidade/p/MLB12702743",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_929683-MLA99034494182_112025-P.webp",
+          "price": {
+            "current": 127.67,
+            "original": 144.0,
+            "discount_percent": 11
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/27VJFxy"
+        },
+        {
+          "ranking": 8,
+          "title": "Suplemento Em Pó Pre Treino Pre Workout Pote 300g Sabor Frutas Amarelas FTW - DIABO VERDE",
+          "url": "https://www.mercadolivre.com.br/suplemento-em-po-pre-treino-pre-workout-pote-300g-sabor-frutas-amarelas-ftw-diabo-verde/p/MLB18949516",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_805404-MLA99564554280_122025-P.webp",
+          "price": {
+            "current": 49.43,
+            "original": 100.0,
+            "discount_percent": 50
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2NKtase"
+        },
+        {
+          "ranking": 9,
+          "title": "Omegafor Plus 120 Cápsulas Ômega 3 Vitafor",
+          "url": "https://www.mercadolivre.com.br/omegafor-plus-120-capsulas-mega-3-vitafor/p/MLB21961479",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_889348-MLA99533932720_122025-P.webp",
+          "price": {
+            "current": 124.77,
+            "original": 218.0,
+            "discount_percent": 42
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1ysMR3B"
+        },
+        {
+          "ranking": 10,
+          "title": "Multivitamínico 120 Cáps. Growth Supplements - Sabor Neutro (Nova Fórmula)",
+          "url": "https://www.mercadolivre.com.br/multivitaminico-120-caps-growth-supplements-sabor-neutro-nova-formula/p/MLB21555776",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_723031-MLA98380453196_112025-P.webp",
+          "price": {
+            "current": 44.9,
+            "original": 57.0,
+            "discount_percent": 22
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2YogVij"
+        },
+        {
+          "ranking": 11,
+          "title": "Suplemento em pó Whey Protein Concentrado Dux Proteína Sache Dose Única 28g",
+          "url": "https://www.mercadolivre.com.br/suplemento-em-po-whey-protein-concentrado-dux-proteina-sache-dose-unica-28g/p/MLB18510397",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_908347-MLA47775276468_102021-P.webp",
+          "price": {
+            "current": 19.27,
+            "original": 0.0,
+            "discount_percent": 0
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1CJVzrt"
+        },
+        {
+          "ranking": 12,
+          "title": "Suplemento em Pó 100% Hd Refil Black Skull - 900g Wpc Wpi E Wph Sabor Chocolate",
+          "url": "https://www.mercadolivre.com.br/suplemento-em-po-100-hd-refil-black-skull-900g-wpc-wpi-e-wph-sabor-chocolate/p/MLB18995413",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_747755-MLA99448684526_112025-P.webp",
+          "price": {
+            "current": 88.98,
+            "original": 119.0,
+            "discount_percent": 25
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2aY4mpG"
+        },
+        {
+          "ranking": 13,
+          "title": "Pasta De Amendoim Com Whey Protein - 600g - Dr. Peanut Sabor Brownie",
+          "url": "https://www.mercadolivre.com.br/pasta-de-amendoim-com-whey-protein-600g-dr-peanut-sabor-brownie/p/MLB24236394",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_760577-MLA102486305684_122025-P.webp",
+          "price": {
+            "current": 48.23,
+            "original": 62.0,
+            "discount_percent": 22
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1SGsUDK"
+        },
+        {
+          "ranking": 14,
+          "title": "Tênis Esportivo Tribase Reps Under Armour",
+          "url": "https://www.mercadolivre.com.br/tnis-esportivo-tribase-reps-under-armour/p/MLB47705729",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_982735-MLA100046894643_122025-P.webp",
+          "price": {
+            "current": 344.9,
+            "original": 449.0,
+            "discount_percent": 23
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/29HMFxZ"
+        },
+        {
+          "ranking": 15,
+          "title": "Creatina Monohidratada 100% Pura Refil 500g - FTW",
+          "url": "https://www.mercadolivre.com.br/creatina-monohidratada-100-pura-refil-500g-ftw/p/MLB42806793",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_959941-MLA99490056678_112025-P.webp",
+          "price": {
+            "current": 37.9,
+            "original": 109.0,
+            "discount_percent": 65
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1XmBr2T"
+        },
+        {
+          "ranking": 16,
+          "title": "Creatina Dux Nutrition 300gr Monohidratada Pura Sabor Neutro",
+          "url": "https://www.mercadolivre.com.br/creatina-dux-nutrition-300gr-monohidratada-pura-sabor-neutro/p/MLB19698479",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_780599-MLA99862356699_112025-P.webp",
+          "price": {
+            "current": 48.99,
+            "original": 60.0,
+            "discount_percent": 18
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2pJiJmV"
+        },
+        {
+          "ranking": 17,
+          "title": "Creatina Integralmedica 100% Pura 60 Cápsulas - Aumento de Resistência e Desempenho para Atletas e Treinos Intensos",
+          "url": "https://www.mercadolivre.com.br/creatina-integralmedica-100-pura-60-capsulas-aumento-de-resistncia-e-desempenho-para-atletas-e-treinos-intensos/p/MLB19533185",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_782298-MLA100076194863_122025-P.webp",
+          "price": {
+            "current": 23.95,
+            "original": 47.0,
+            "discount_percent": 50
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": false
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2UVmup5"
+        },
+        {
+          "ranking": 18,
+          "title": "Whey Protein Concentrado 1kg Morango Dark Lab",
+          "url": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-morango-dark-lab/p/MLB40182325",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_927988-MLA99469885866_112025-P.webp",
+          "price": {
+            "current": 129.9,
+            "original": 234.0,
+            "discount_percent": 44
+          },
+          "shipping": {
+            "free_shipping": true,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/2PV2Cb8"
+        },
+        {
+          "ranking": 19,
+          "title": "Hipercalórico Anabolic Mass 28500 3kg - Profit Labs Sabor Leite ninõ",
+          "url": "https://www.mercadolivre.com.br/hipercalorico-anabolic-mass-28500-3kg-profit-labs-sabor-leite-nino/p/MLB27948262",
+          "image_url": "https://http2.mlstatic.com/D_Q_NP_629478-MLA99513872288_112025-P.webp",
+          "price": {
+            "current": 67.8,
+            "original": 0.0,
+            "discount_percent": 0
+          },
+          "shipping": {
+            "free_shipping": false,
+            "fulfillment": true
+          },
+          "affiliate_url": "https://mercadolivre.com/sec/1mAL6fz"
+        }
+      ]
+    }
+  ]
+}
